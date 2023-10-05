@@ -1,0 +1,21 @@
+div {
+    background-color: lightpink
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+}
+h2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+}
+header {
+    text-align: center; 
+}
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+}
