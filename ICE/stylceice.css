@@ -1,21 +1,37 @@
+h1:hover {
+   color: white;
+}
+#quote1 {
+    color: white;
+    font-size: large;
+    width: 8em;
+}
 div {
     background-color: lightpink
 }
-p{
-    margin-left: auto;
+#short {
+    margin-left: 12em;
     margin-right: auto;
     width: 8em;
+    font-size: large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
-h2 {
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+#quote2 {
     margin-left: auto;
     margin-right: auto;
     width: 8em;
+    color: white;
 }
 header {
     text-align: center; 
 }
-footer {
-    margin-left: auto;
-    margin-right: auto;
-    width: 8em;
+#footerinfo {
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 
 }
